@@ -7,10 +7,10 @@ This tweak was made as an entry to the second installment of the Tweak Battles c
 Here's a list of all the supporters:
 * sel2by3  
 * Josh Gibson  
-* @BrianOverly
+* [@BrianOverly](https://twitter.com/BrianOverly)
 * OVOAustin@gmail.com
 * Adam M
-* @twodayslate
+* [@twodayslate](https://twitter.com/twodayslate)
 * cj81499
 * Kennedy
 * Bruno Silva
@@ -20,7 +20,7 @@ Here's a list of all the supporters:
 * pixxaddict
 * wizage
 * ThaTiemsz
-* @redzrex
+* [@redzrex](https://twitter.com/redzrez)
 * KaseTheAce
 * Matteo Piccina
 * twahlHD
@@ -39,4 +39,4 @@ Here's a list of all the supporters:
 * Megachon
 * Dr.J
 * phlooo
-* @mwoolweaver
+* [@mwoolweaver](https://twitter.com/mwoolweaver)
