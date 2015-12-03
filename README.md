@@ -2,7 +2,7 @@
 Quick search function for anywhere in iOS 8.
 
 #Tweak Battles
-This tweak was made as an entry to the second installment of the Tweak Battles competition: http://tweakbattles.com
+This tweak was made as an entry to the second instalment of the Tweak Battles competition: http://tweakbattles.com
 
 Here's a list of all the supporters:
 * sel2by3  
